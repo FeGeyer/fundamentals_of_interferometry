@@ -1,3 +1,6 @@
+# DISCLAIMER
+I forked this repository in order to update it to python 3. Most of the code was created using python 2 and is now outdated. I will update step-by-step as I progress trough the notebooks.
+
 # Fundamentals of Radio Interferometry
 
 An ipython notebook-based book on the Fundamentals of Radio Interferometry. This is a community effort with the aim to be constantly improving and adding to the content in an effort to make interferometry as accessible as possible.  Please contribute, whether it is content, editing, or even suggestions.
