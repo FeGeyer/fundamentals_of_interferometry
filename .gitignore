@@ -73,3 +73,5 @@ target/
 
 .venv*/
 .virtualenv*/
+
+.vscode/
